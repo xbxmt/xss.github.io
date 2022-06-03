@@ -1,6 +1,5 @@
 
 
----
 [![Pull Requests Welcome](https://img.shields.io/badge/video-赵晓视频-green)](https://xbxmt.github.io/video.github.io)
 
 ---
