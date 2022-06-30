@@ -1,6 +1,7 @@
 
 
-[![Pull Requests Welcome](https://img.shields.io/badge/video-赵晓视频-green)](https://xbxmt.github.io/video.github.io)
+[![Pull Requests Welcome](https://img.shields.io/badge/video-赵晓视频-green)](https://xbxmt.github.io/video.github.io)  
+独家解析财经热点并天下大势
 
 ---
 [![first-timers-only Friendly](https://img.shields.io/badge/Article-晓观天下-yellow)](https://xbxmt.github.io/Article.github.io/)
