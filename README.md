@@ -8,7 +8,8 @@
 日常海量阅读之摘要评论
 
 ---
-[![Setup Automated](https://img.shields.io/badge/video-病毒启示录-red)](https://xbxmt.github.io/bd.github.io/)
+[![Setup Automated](https://img.shields.io/badge/video-病毒启示录-red)](https://xbxmt.github.io/bd.github.io/)<br>
+疫情对全球经济形势的影响及解读
 
 ---
 [![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6-blue)](https://xbxmt.github.io/jingji.github.io/)<br>
