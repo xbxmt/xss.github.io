@@ -11,6 +11,7 @@
 [![Setup Automated](https://img.shields.io/badge/video-病毒启示录-red)](https://xbxmt.github.io/bd.github.io/)
 
 ---
-[![Rocket.Chat](https://img.shields.io/badge/Curriculum-建设中……-blue)]()
+[![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6-blue)](https://xbxmt.github.io/jingji.github.io/)<br>
+从经济学角度领悟对生命的思考
 
 ---
