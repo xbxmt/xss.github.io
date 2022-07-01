@@ -15,3 +15,5 @@
 从经济学角度领悟对生命的思考
 
 ---
+[![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%97%AE%E7%AD%94-informational)](https://xbxmt.github.io/100.github.io/)<br>
+生命经济学答疑
