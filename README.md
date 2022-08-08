@@ -12,6 +12,10 @@
 信息 · 见证 · 音乐 · 祝福
 
 ---
+[![Setup Automated](https://img.shields.io/badge/video-%E5%96%84%E5%95%86%E5%88%86%E4%BA%AB-ff69b4)](https://xbxmt.github.io/shanshang.github.io/)<br>
+非敢言善 · 但求良善
+
+---
 [![Setup Automated](https://img.shields.io/badge/video-病毒启示录-red)](https://xbxmt.github.io/bd.github.io/)<br>
 疫情对全球经济形势的影响及解读
 
