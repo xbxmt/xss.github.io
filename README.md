@@ -26,3 +26,7 @@
 ---
 [![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%97%AE%E7%AD%94-informational)](https://xbxmt.github.io/100.github.io/)<br>
 生命经济学答疑
+
+---
+[![Rocket.Chat](https://img.shields.io/badge/%E2%99%AC-%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2-yellowgreen)](https://xbxmt.github.io/music.github.io/)<br>
+原创歌曲
