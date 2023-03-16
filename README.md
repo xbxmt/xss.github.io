@@ -4,7 +4,7 @@
 独家解析财经热点并天下大势
 
 ---
-[![first-timers-only Friendly](https://img.shields.io/badge/Article-晓观天下-yellow)](https://xbxmt.github.io/v.github.io/)<br>
+[![first-timers-only Friendly](https://img.shields.io/badge/Article-晓观天下-yellow)](https://xbxmt.github.io/Article.github.io/)<br>
 日常海量阅读之摘要评论
 
 ---
