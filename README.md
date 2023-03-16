@@ -1,6 +1,6 @@
 
 
-[![Pull Requests Welcome](https://img.shields.io/badge/video-%E6%AF%8F%E5%91%A8%E4%B8%80%E8%AF%BE-green)](https://xbxmt.github.io/videos.github.io)  
+[![Pull Requests Welcome](https://img.shields.io/badge/video-%E6%AF%8F%E5%91%A8%E4%B8%80%E8%AF%BE-green)](https://xbxmt.github.io/v.github.io/)  
 独家解析财经热点并天下大势
 
 ---
