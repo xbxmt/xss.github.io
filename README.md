@@ -1,10 +1,10 @@
 
 
-[![Pull Requests Welcome](https://img.shields.io/badge/video-%E6%AF%8F%E5%91%A8%E4%B8%80%E8%AF%BE-green)](https://xbxmt.github.io/tiz.github.io/)  
+[![Pull Requests Welcome](https://img.shields.io/badge/video-%E6%AF%8F%E5%91%A8%E4%B8%80%E8%AF%BE-green)](https://xbxmt.github.io/tz.github.io/)  
 独家解析财经热点并天下大势
 
 ---
-[![first-timers-only Friendly](https://img.shields.io/badge/Article-晓观天下-yellow)](https://xbxmt.github.io/Article.github.io/)<br>
+[![first-timers-only Friendly](https://img.shields.io/badge/Article-晓观天下-yellow)](https://xbxmt.github.io/Articl.github.io/)<br>
 日常海量阅读之摘要评论
 
 ---
