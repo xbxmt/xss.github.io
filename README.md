@@ -12,19 +12,19 @@
 信息 · 见证 · 音乐 · 祝福
 
 ---
-[![Setup Automated](https://img.shields.io/badge/video-%E5%96%84%E5%95%86%E5%88%86%E4%BA%AB-ff69b4)](https://xbxmt.github.io/shans.github.io/)<br>
+[![Setup Automated](https://img.shields.io/badge/video-%E5%96%84%E5%95%86%E5%88%86%E4%BA%AB-ff69b4)](https://xbxmt.github.io/shs.github.io/)<br>
 非敢言善 · 但求良善
 
 ---
-[![Setup Automated](https://img.shields.io/badge/video-病毒启示录-red)](https://xbxmt.github.io/bd.github.io/)<br>
+[![Setup Automated](https://img.shields.io/badge/video-病毒启示录-red)](https://xbxmt.github.io/bid.github.io/)<br>
 疫情对全球经济形势的影响及解读
 
 ---
-[![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6-blue)](https://xbxmt.github.io/jingji.github.io/)<br>
+[![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6-blue)](https://xbxmt.github.io/jj.github.io/)<br>
 从经济学角度领悟对生命的思考
 
 ---
-[![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%97%AE%E7%AD%94-informational)](https://xbxmt.github.io/100.github.io/)<br>
+[![Rocket.Chat](https://img.shields.io/badge/video-%E7%94%9F%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%97%AE%E7%AD%94-informational)](https://xbxmt.github.io/1b.github.io/)<br>
 生命经济学答疑
 
 ---
