@@ -8,7 +8,7 @@
 日常海量阅读之摘要评论
 
 ---
-[![Setup Automated](https://img.shields.io/badge/video-%E7%89%B9%E5%88%AB%E6%B4%BB%E5%8A%A8-orange)](https://xbxmt.github.io/th.github.io/)<br>
+[![Setup Automated](https://img.shields.io/badge/video-%E7%89%B9%E5%88%AB%E6%B4%BB%E5%8A%A8-orange)](https://xbxmt.github.io/tbhd.github.io/)<br>
 信息 · 见证 · 音乐 · 祝福
 
 ---
